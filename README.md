@@ -56,15 +56,15 @@ I love discovering new tools, exploring interesting platforms, experimenting in 
 <!-- Replace the placeholder links with your actual social links -->
 
 <a href="https://www.youtube.com/@YOUR_CHANNEL">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://www.youtube.com/channel/UC2O27BXe2grA8aA6cazDpng"/>
 </a>
 
 <a href="https://www.instagram.com/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://www.instagram.com/zero2nullsecurity/"/>
 </a>
 
 <a href="https://discord.gg/YOUR_INVITE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://discord.gg/CrCb2UQAu"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
