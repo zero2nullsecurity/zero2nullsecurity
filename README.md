@@ -49,30 +49,25 @@ I love discovering new tools, exploring interesting platforms, experimenting in 
 
 ---
 
+
 ## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<!-- Replace the placeholder links with your actual social links -->
-
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
-<img src="https://www.youtube.com/channel/UC2O27BXe2grA8aA6cazDpng"/>
+<a href="https://www.youtube.com/@zero2nullsecurity" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/YOUR_USERNAME/">
-<img src="https://www.instagram.com/zero2nullsecurity/"/>
+<a href="https://www.instagram.com/zero2nullsecurity/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://discord.gg/YOUR_INVITE">
-<img src="https://discord.gg/CrCb2UQAu"/>
+<a href="https://discord.gg/CrCb2UQAu" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+<a href="https://t.me/+QkUD6FTU49QyNjdl" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Community-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 </div>
